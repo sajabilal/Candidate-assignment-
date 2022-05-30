@@ -14,6 +14,10 @@ remote server shall have java and docker installed
 agent server in jenkins with ssh access to remote docker enabled server(add its name instead of the node name in the last stage in jenkins file)
 ports 50000 on both jenkins and remote ec2 available 
 of the jenkns file to work  we need jenkins server sitting on a windows OS remote server shall be linux 
-in order for the app to work just hit "build job" in jenkins after setting up all the requirements
+
+in order for the app to work:
+create a jenkins job on your windows hosted jrnkins server 
+add the jenkins file to the pipeline script area 
+hit "build job" in jenkins after setting up all the requirements
 
 
