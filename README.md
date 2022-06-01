@@ -13,8 +13,6 @@ requirements and launch:
 3- ports 50000 on both jenkins and remote ec2 available 
 
 How does it work:
-create a jenkins job on your windows hosted jrnkins server 
-add the jenkins file to the pipeline script area 
-hit "build job" in jenkins after setting up all the requirements
+follow the requirements and then hit "build" in jenkins next to "run-flask" job
 
 
