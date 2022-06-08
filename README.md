@@ -1,4 +1,4 @@
-Title: Candidate assignment for Browzwear - containarized app run by jenkins 
+Title: flask containarized app run by jenkins 
 
 Technologies: 
 flask 
