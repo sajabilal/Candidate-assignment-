@@ -8,6 +8,7 @@ jenkins
 Git
 
 requirements and launch: 
+
 1- a remote server which  has java and docker installed 
 
 2- an agent server in jenkins with ssh access to remote docker enabled sever( the server mentioned in step1)
