@@ -10,5 +10,5 @@ RUN pip install --upgrade pip \
 
     && pip install -r requirementsDockerFile.txt 
   
-CMD ["python","browzwear.py"]
+CMD ["python","candidate.py"]
 
